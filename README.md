@@ -18,6 +18,7 @@ This is a website I made that I intend to use to help with hunting for jobs
 - None as this was an off on my own project that Me and my professor agreed would serve as Project 3
 ### Extra Features
 - Currently it is accessable via QR and should work on mobile
+- Image links for both my Github and LinkedIn accounts
 ### Screenshots
 - ![image](https://github.com/user-attachments/assets/8c04b69a-c752-4a5c-a31b-bb4a3a7f9609)
 - ![image](https://github.com/user-attachments/assets/28d46ffa-fd2e-4869-989e-58a80d6da17c)
@@ -28,7 +29,7 @@ This is a website I made that I intend to use to help with hunting for jobs
 
 
 ## Future Work
-- Planning on adding logos for Github and Linkedin that when clicked will link to the respected websites
+- None planned so far, will update it with more info as I complete more courses and work more internships
 - Possibly links to my project's themselves as well as more links to other important sites
 - Make it look a bit nicer, it is very gray scale right now
 
